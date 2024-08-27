@@ -6,7 +6,7 @@ Product Designer and Web developer
 
 * 🌍  I'm based in Berlin
 * 🖥️  See my portfolio at [My portfolio](https://portfolioexpress.netlify.app/)
-* 🚀  I'm currently working on [Clipin.fit](http://www.clipin.fit/)
+* 🚀  I'm currently working on [Plus UI Design](https://plusuidesign.com/)
 * 🧠  I'm learning NextJs and TailwindCSS
 
 ### Skills
