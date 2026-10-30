@@ -5,7 +5,7 @@ Product Designer, Design Engineer
 ----------------------------------
 
 * 🌍  based in Berlin
-* 🖥️  See [my portfolio]([https://portfolioexpress.netlify.app/](https://portfolio.plusuidesign.com/))
+* 🖥️  See [my portfolio](https://portfolio.plusuidesign.com/)
 * 🚀  I'm currently working on [Plus UI Design](https://plusuidesign.com/)
 * 🧠  I'm learning Agentic Coding
 
