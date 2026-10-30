@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Product Designer, Design Engineer
 ----------------------------------
 
-* 🌍  based in Berlin
+* 🌍  Based in Berlin
 * 🖥️  See [my portfolio](https://portfolio.plusuidesign.com/)
 * 🚀  I'm currently working on [Plus UI Design](https://plusuidesign.com/)
 * 🧠  I'm learning Agentic Coding
